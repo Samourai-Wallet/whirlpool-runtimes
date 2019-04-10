@@ -3,6 +3,10 @@
     "0.1": {
       "CLI_VERSION": "0.1.0",
       "CLI_CHECKSUM": "3615cbd8ab47238ce2af65cc5dcdb7847758b7d998502c62c7874c9782581184"
+    },
+    "0.2": {
+      "CLI_VERSION": "0.2.0",
+      "CLI_CHECKSUM": "5dacdf5c43dbb8a49caf8246c72297ad79e853cb5e492a9eb20fffa9b470cbea"
     }
   }
 }
