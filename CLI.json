@@ -15,6 +15,10 @@
     "0.4": {
       "CLI_VERSION": "0.4.0",
       "CLI_CHECKSUM": "b45897f0d8762ab9a61c0c34cefbe4c364a046410d0a8c44db863e43cea1530b"
+    },
+    "0.5": {
+      "CLI_VERSION": "0.5.0",
+      "CLI_CHECKSUM": "14251afcfaea27db7b1ed5ed3eb7d05a7b368b34c23848d1beafd12eead19fe2"
     }
   }
 }
