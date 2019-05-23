@@ -24,5 +24,12 @@
       "CLI_VERSION": "0.6.0",
       "CLI_CHECKSUM": "a165b6e440b3b454f43accb8d1958838a1e579e00db685f29b3e54e3cf682c9b"
     }
+  },
+  "GUI": {
+    "LAST": {
+      "MAINNET": "0.5.1",
+      "TESTNET": "0.6.0",
+      "INTEGRATION": "0.6.0"
+    }
   }
 }
