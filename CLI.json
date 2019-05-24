@@ -27,9 +27,9 @@
   },
   "GUI": {
     "LAST": {
-      "MAINNET": "0.6.1",
-      "TESTNET": "0.6.1",
-      "INTEGRATION": "0.6.1"
+      "MAINNET": "0.6.2",
+      "TESTNET": "0.6.2",
+      "INTEGRATION": "0.6.2"
     }
   }
 }
