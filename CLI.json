@@ -21,8 +21,8 @@
       "CLI_CHECKSUM": "122c972b76ddd62d75099848275eb44456f55ae0c3841e27094519ca1387c0a2"
     },
     "0.6": {
-      "CLI_VERSION": "0.6.3",
-      "CLI_CHECKSUM": "934fced9883d5e137ef7cd133141533b64585313743abdb3d99bf2015a54977d"
+      "CLI_VERSION": "0.6.4",
+      "CLI_CHECKSUM": "b36fb0cd72df0ce09e2eea6ade158463782e85a56441c094b2cace81b34d56e4"
     }
   },
   "GUI": {
