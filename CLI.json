@@ -24,6 +24,10 @@
       "CLI_VERSION": "0.6.4",
       "CLI_CHECKSUM": "b36fb0cd72df0ce09e2eea6ade158463782e85a56441c094b2cace81b34d56e4"
     },
+    "0.7": {
+      "CLI_VERSION": "0.7.0",
+      "CLI_CHECKSUM": "ef49ac9c26123cf449690e02c03dcbf08925d473b9e306134a786b892ecda557"
+    },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
       "CLI_CHECKSUM": "3f5f13f5d1e5f77a45443be273c6ad61b860fff2debaf17a6bf38f9e0169d1d6"
