@@ -34,7 +34,7 @@
     },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
-      "CLI_CHECKSUM": "3f5f13f5d1e5f77a45443be273c6ad61b860fff2debaf17a6bf38f9e0169d1d6"
+      "CLI_CHECKSUM": "82c49cd1340f062c0e86a9d7f87420a1c8f3b35235d9b4e0b2e1d302463eaf7c"
     }
   },
   "GUI": {
