@@ -32,6 +32,10 @@
       "CLI_VERSION": "0.8.0",
       "CLI_CHECKSUM": "f97dbd22ff1310bb80030d8c35c89d85a4ef810d7399ee40f3b0133e37cc3400"
     },
+    "0.9": {
+      "CLI_VERSION": "0.9.0",
+      "CLI_CHECKSUM": "55aafe34638dad56c2f67e6bb49cb787ff75e44d56787bef077df7fbee8d7ad7"
+    },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
       "CLI_CHECKSUM": "b00839ccf31d6c85f0585e81436331ba32881b5b2a61361012feb81f2deb4ee5"
