@@ -33,8 +33,8 @@
       "CLI_CHECKSUM": "f97dbd22ff1310bb80030d8c35c89d85a4ef810d7399ee40f3b0133e37cc3400"
     },
     "0.9": {
-      "CLI_VERSION": "0.9.0",
-      "CLI_CHECKSUM": "55aafe34638dad56c2f67e6bb49cb787ff75e44d56787bef077df7fbee8d7ad7"
+      "CLI_VERSION": "0.9.1",
+      "CLI_CHECKSUM": "37eaa20e0856eecd9b7335e5a614b8e02eb55f35bdbed64bb9796886d169c421"
     },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
@@ -43,9 +43,9 @@
   },
   "GUI": {
     "LAST": {
-      "MAINNET": "0.9.0",
-      "TESTNET": "0.9.0",
-      "INTEGRATION": "0.9.0"
+      "MAINNET": "0.9.1",
+      "TESTNET": "0.9.1",
+      "INTEGRATION": "0.9.1"
     }
   }
 }
