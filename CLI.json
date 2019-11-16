@@ -1,33 +1,5 @@
 {
   "CLI_API": {
-    "0.1": {
-      "CLI_VERSION": "0.1.0",
-      "CLI_CHECKSUM": "3615cbd8ab47238ce2af65cc5dcdb7847758b7d998502c62c7874c9782581184"
-    },
-    "0.2": {
-      "CLI_VERSION": "0.2.2",
-      "CLI_CHECKSUM": "464c60b5a987c333021ffb29aeba5dea88fe1de99757a3c4d597b9e673555703"
-    },
-    "0.3": {
-      "CLI_VERSION": "0.3.0",
-      "CLI_CHECKSUM": "cdacce210f184fd8d736a908b797a785c5e84a7110eebc9547af0eea6241de97"
-    },
-    "0.4": {
-      "CLI_VERSION": "0.4.0",
-      "CLI_CHECKSUM": "b45897f0d8762ab9a61c0c34cefbe4c364a046410d0a8c44db863e43cea1530b"
-    },
-    "0.5": {
-      "CLI_VERSION": "0.5.2",
-      "CLI_CHECKSUM": "122c972b76ddd62d75099848275eb44456f55ae0c3841e27094519ca1387c0a2"
-    },
-    "0.6": {
-      "CLI_VERSION": "0.6.4",
-      "CLI_CHECKSUM": "b36fb0cd72df0ce09e2eea6ade158463782e85a56441c094b2cace81b34d56e4"
-    },
-    "0.7": {
-      "CLI_VERSION": "0.7.2",
-      "CLI_CHECKSUM": "8062e79a26d85372fc8d954c1ff321e598d163390fe3b82bfcb87adb2de54ebb"
-    },
     "0.8": {
       "CLI_VERSION": "0.8.0",
       "CLI_CHECKSUM": "f97dbd22ff1310bb80030d8c35c89d85a4ef810d7399ee40f3b0133e37cc3400"
@@ -39,13 +11,16 @@
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
+    },
+    "QA": {
+      "CLI_VERSION": "0.9.2",
+      "CLI_CHECKSUM": "0e192c80af352dbff54beccfd89cf350dff6a360a2243175cebaa46a0947f6c5"
     }
   },
   "GUI": {
     "LAST": {
       "MAINNET": "0.9.1",
-      "TESTNET": "0.9.1",
-      "INTEGRATION": "0.9.1"
+      "TESTNET": "0.9.1"
     }
   }
 }
