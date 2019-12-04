@@ -19,8 +19,8 @@
   },
   "GUI": {
     "LAST": {
-      "MAINNET": "0.9.2",
-      "TESTNET": "0.9.2"
+      "MAINNET": "0.9.1",
+      "TESTNET": "0.9.1"
     }
   }
 }
