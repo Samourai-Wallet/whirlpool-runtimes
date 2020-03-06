@@ -9,8 +9,8 @@
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
     },
     "QA": {
-      "CLI_VERSION": "0.10.3-alpha5",
-      "CLI_CHECKSUM": "73125b814e9ea164a8f92977afbb051d2afa47063a08459c89a246e23f5baeaa"
+      "CLI_VERSION": "0.10.3-alpha6",
+      "CLI_CHECKSUM": "4e4c498af22c945a36fff307fa13059523784f084b4e0830efa5bcc4c47f8ec1"
     }
   },
   "GUI": {
