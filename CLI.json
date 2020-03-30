@@ -1,8 +1,8 @@
 {
   "CLI_API": {
     "0.10": {
-      "CLI_VERSION": "0.10.2",
-      "CLI_CHECKSUM": "ba96dd04b8e3beff3c13875c63218cf7fc4813ece2609574e7d1ee52945b797b"
+      "CLI_VERSION": "0.10.3",
+      "CLI_CHECKSUM": "44d5c71b5f0a4348bf8bae9f8770225e9928965dc6fd141c2c6251105279e8ac"
     },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
