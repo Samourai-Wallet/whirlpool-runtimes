@@ -9,14 +9,14 @@
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
     },
     "QA": {
-      "CLI_VERSION": "0.10.3-alpha6",
-      "CLI_CHECKSUM": "4e4c498af22c945a36fff307fa13059523784f084b4e0830efa5bcc4c47f8ec1"
+      "CLI_VERSION": "0.10.3",
+      "CLI_CHECKSUM": "44d5c71b5f0a4348bf8bae9f8770225e9928965dc6fd141c2c6251105279e8ac"
     }
   },
   "GUI": {
     "LAST": {
-      "MAINNET": "0.10.0",
-      "TESTNET": "0.10.0"
+      "MAINNET": "0.10.1",
+      "TESTNET": "0.10.1"
     }
   }
 }
