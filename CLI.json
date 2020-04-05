@@ -1,16 +1,16 @@
 {
   "CLI_API": {
     "0.10": {
-      "CLI_VERSION": "0.10.3",
-      "CLI_CHECKSUM": "44d5c71b5f0a4348bf8bae9f8770225e9928965dc6fd141c2c6251105279e8ac"
+      "CLI_VERSION": "0.10.4",
+      "CLI_CHECKSUM": "e1b3c1da3ca6d82c85c6e07d29e00d9c1d5d2731d7e6c8473c8829ba3297f2ec"
     },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
     },
     "QA": {
-      "CLI_VERSION": "0.10.3",
-      "CLI_CHECKSUM": "44d5c71b5f0a4348bf8bae9f8770225e9928965dc6fd141c2c6251105279e8ac"
+      "CLI_VERSION": "0.10.4",
+      "CLI_CHECKSUM": "e1b3c1da3ca6d82c85c6e07d29e00d9c1d5d2731d7e6c8473c8829ba3297f2ec"
     }
   },
   "GUI": {
