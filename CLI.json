@@ -11,8 +11,9 @@
     "QA": {
       "CLI_VERSION": "0.10.4",
       "CLI_CHECKSUM": "e1b3c1da3ca6d82c85c6e07d29e00d9c1d5d2731d7e6c8473c8829ba3297f2ec"
-    } 
+    }
   },
+
   "GUI": {
     "LAST": {
       "MAINNET": "0.10.1",
