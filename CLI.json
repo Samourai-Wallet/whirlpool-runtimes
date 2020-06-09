@@ -9,8 +9,8 @@
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
     },
     "QA": {
-      "CLI_VERSION": "develop-SNAPSHOT",
-      "CLI_CHECKSUM": "e686453d8fb1f08b0c4228d26251f6af662a52eee2809b8a41557b1a17da90ff"
+      "CLI_VERSION": "0.10.6-QA",
+      "CLI_CHECKSUM": "eb07ef5637c2bb52b1be57b62941120a689b0c02600c38dbda3b8dd701d03cc8"
     }
   },
 
